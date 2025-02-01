@@ -1,6 +1,6 @@
 # GD3300D Serial MP3 Library
 
-This is an **Arduino library** for controlling the **GD3300D/TD5580A Serial MP3 Player Module** via UART communication. This library allows playing, pausing, stopping, skipping tracks, and adjusting volume through simple commands.
+This is an **Arduino library** for controlling the **GD3300D Serial MP3 Player Module** via UART communication. This library allows playing, pausing, stopping, skipping tracks, and adjusting volume through simple commands.
 
 ## Features
 - Play, pause, and stop MP3 tracks
